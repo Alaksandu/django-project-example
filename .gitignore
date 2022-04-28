@@ -1,0 +1,11 @@
+# ignorar arquivos de cache do python
+__pycache__
+
+#ignorar arquivos com til
+*.*~
+
+# ignorar arquivos python compile
+*.pyc
+
+#ignorar a diretório idea
+.idea
